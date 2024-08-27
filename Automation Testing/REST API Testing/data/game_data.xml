@@ -1,0 +1,14 @@
+<games>
+    <game>
+        <id>1</id>
+        <name>Super Mario</name>
+        <releaseDate>2022-07-07</releaseDate>
+        <reviewScore>75</reviewScore>
+    </game>
+    <game>
+        <id>2</id>
+        <name>Contra</name>
+        <releaseDate>2022-09-09</releaseDate>
+        <reviewScore>90</reviewScore>
+    </game>
+</games>

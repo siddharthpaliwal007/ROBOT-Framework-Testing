@@ -1,0 +1,14 @@
+{
+    "transactionType": "sale",
+    "amount": "100.00",
+    "currencyCode": "USD",
+    "card": {
+        "number": "4111111111111111",
+        "expirationDate": "12/25",
+        "cvv": "123"
+    },
+    "merchant": {
+        "id": "merchant123",
+        "name": "Test Merchant"
+    }
+}
